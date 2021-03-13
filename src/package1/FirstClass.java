@@ -11,9 +11,15 @@ public class FirstClass {
 		
 
 
+
 // Hey guys this is out remote master branch	
     //Serifes conflict comments
 	    //here no problem
+
+// Hey guys this is out remote master branch
+	    //MAster comment
+	    
+    
 
     
     
